@@ -8,8 +8,9 @@ export default function TimerChallenge({title,targetTime}){
 
         setTimeout(() => {
             setTimerExpired(true);
-            setTimerStarted(false);
         },targetTime * 1000);
+        setTimerStarted(true);
+        
     }
 
 
