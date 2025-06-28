@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/JanithUpGit/React-TimeChallenge.git", 
+  "homepage": "https://janithupgit.github.io/React-TimeChallenge/", 
   "scripts": {
     "dev": "vite",
     "build": "vite build",
